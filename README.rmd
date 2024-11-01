@@ -1,5 +1,5 @@
 ---
-title: My first git repo
+title: My first git repo (on the main branch)
 author: Kelly Longhini
 output: github_document
 ---
@@ -7,6 +7,13 @@ output: github_document
 # My first commit:
 
 Here is some text that constitutes my first commit in my first repo.
+I am now adding a new line to this first commit section of the readme. 
+Text for another commit. 
+Text for yet another commit. 
+
+__Here is some text on the test branch.__
+
+__Here is some more text on the test branch.__
 
 # My second commit:
 
